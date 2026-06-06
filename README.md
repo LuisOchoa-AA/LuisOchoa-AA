@@ -1,4 +1,3 @@
-## Hi there 👋
 I went to [Microsoft Build](https://build.microsoft.com/) and all I got was this lousy GitHub Contribution Graph GIF:
 
 <picture>
