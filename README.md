@@ -1,5 +1,11 @@
 ## Hi there 👋
+I went to [Microsoft Build](https://build.microsoft.com/) and all I got was this lousy GitHub Contribution Graph GIF:
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="intro-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="intro-light.gif">
+  <img src="intro-light.gif" alt="Build-themed GitHub contribution graph GIF with BUILD 2026 intro">
+</picture>
 <!--
 **LuisOchoa-AA/LuisOchoa-AA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
